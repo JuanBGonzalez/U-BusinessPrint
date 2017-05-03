@@ -1,0 +1,13 @@
+C:\Users\JuanB\documents\visual studio 2010\Projects\Autorizacion de Descuento\Autorizacion de Descuento\bin\Debug\Autorizacion de Descuento.exe
+C:\Users\JuanB\documents\visual studio 2010\Projects\Autorizacion de Descuento\Autorizacion de Descuento\bin\Debug\Autorizacion de Descuento.pdb
+C:\Users\JuanB\documents\visual studio 2010\Projects\Autorizacion de Descuento\Autorizacion de Descuento\bin\Debug\Autorizacion de Descuento.xml
+C:\Users\JuanB\documents\visual studio 2010\Projects\Autorizacion de Descuento\Autorizacion de Descuento\obj\x86\Debug\Autorizacion_de_Descuento.Form1.resources
+C:\Users\JuanB\documents\visual studio 2010\Projects\Autorizacion de Descuento\Autorizacion de Descuento\obj\x86\Debug\Autorizacion_de_Descuento.Resources.resources
+C:\Users\JuanB\documents\visual studio 2010\Projects\Autorizacion de Descuento\Autorizacion de Descuento\obj\x86\Debug\Autorizacion de Descuento.vbproj.GenerateResource.Cache
+C:\Users\JuanB\documents\visual studio 2010\Projects\Autorizacion de Descuento\Autorizacion de Descuento\obj\x86\Debug\Autorizacion de Descuento.exe
+C:\Users\JuanB\documents\visual studio 2010\Projects\Autorizacion de Descuento\Autorizacion de Descuento\obj\x86\Debug\Autorizacion de Descuento.xml
+C:\Users\JuanB\documents\visual studio 2010\Projects\Autorizacion de Descuento\Autorizacion de Descuento\obj\x86\Debug\Autorizacion de Descuento.pdb
+C:\Users\JuanB\documents\visual studio 2010\Projects\Autorizacion de Descuento\Autorizacion de Descuento\obj\x86\Debug\Autorizacion de Descuento.vbproj.ResolveComReference.cache
+C:\Users\JuanB\documents\visual studio 2010\Projects\Autorizacion de Descuento\Autorizacion de Descuento\bin\Debug\Autorizacion de Descuento.exe.config
+C:\Users\JuanB\documents\visual studio 2010\Projects\Autorizacion de Descuento\Autorizacion de Descuento\bin\Debug\MySql.Data.dll
+C:\Users\JuanB\documents\visual studio 2010\Projects\Autorizacion de Descuento\Autorizacion de Descuento\obj\x86\Debug\Autorizacion de Descuento.vbprojResolveAssemblyReference.cache
